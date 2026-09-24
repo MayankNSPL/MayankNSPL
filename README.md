@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Mayank Sharma
+# Mayank Sharma🦾☣️
 
 ### UI/UX Designer · Graphic Designer · GenAI Artist · 3D Artist
 
