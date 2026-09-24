@@ -1,229 +1,606 @@
-<div align="center">
+# ✦ MAYANK SHARMA
 
-👋 Hi, I'm Mayank Sharma
+### `UI/UX DESIGNER` · `GRAPHIC DESIGNER` · `GENAI ARTIST` · `3D ARTIST`
 
-UI/UX Designer · Graphic Designer · GenAI Artist · 3D Artist
-
-Designing digital experiences, visual identities, AI-powered creatives, and 3D visuals that turn ideas into polished outcomes.
-
-</div>
-
-🎨 About Me
-
-I’m Mayank Sharma, a multidisciplinary designer focused on combining UI/UX, graphic design, GenAI, and 3D artistry to create modern, high-impact visual experiences.
-
-My work spans from product interfaces and design systems to brand creatives, social media design, AI-generated visuals, 3D compositions, and web experiences.
-
-What I Do
-
-🧩 UI/UX Design — User flows, wireframes, responsive interfaces, prototypes, design systems & visual hierarchy
-
-🎯 Graphic Design — Branding, social creatives, campaigns, presentations, marketing collateral & visual communication
-
-🤖 GenAI Art & Creative AI — AI-assisted ideation, image generation, visual exploration, concept development & creative workflows
-
-🧊 3D Art & Visualization — Product visuals, 3D compositions, materials, lighting, renders & creative scenes
-
-🌐 Web & WordPress — Website layouts, landing pages, UI implementation support and WordPress-based visual experiences
-
-🧠 Design Expertise
-
-Area
-
-Focus
-
-UI/UX
-
-User journeys, wireframes, high-fidelity UI, prototypes, design systems, responsive design
-
-Visual Design
-
-Brand identity, typography, color systems, layout, composition, campaign creatives
-
-Social Media
-
-Static posts, carousels, ad creatives, campaign visuals, content systems
-
-Web Design
-
-Landing pages, websites, e-commerce interfaces, responsive layouts
-
-GenAI
-
-Prompt design, image generation, visual ideation, creative variations, AI-assisted workflows
-
-3D
-
-Modeling, materials, lighting, rendering, product visualization, creative environments
-
-Presentation Design
-
-Corporate decks, pitch decks, sales presentations, visual storytelling
-
-🛠️ Professional Design Toolkit
-
-🎨 UI/UX & Product Design
-
-<p align="left">
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-<a href="https://www.figma.com/figjam/" target="_blank"><img src="https://img.shields.io/badge/FigJam-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="FigJam"/></a>
-<a href="https://www.figma.com/dev-mode/" target="_blank"><img src="https://img.shields.io/badge/Figma%20Dev%20Mode-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Dev Mode"/></a>
-<a href="https://www.sketch.com/" target="_blank"><img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=111111" alt="Sketch"/></a>
-</p>
-
-Core capabilities: Wireframing · Prototyping · User Flows · Design Systems · Auto Layout · Components · Responsive UI · UX Audits · Interaction Design
-
-🖌️ Adobe Creative Cloud
-
-<p align="left">
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/></a>
-<a href="https://www.adobe.com/products/indesign.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign"/></a>
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro"/></a>
-<a href="https://www.adobe.com/products/lightroom.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom"/></a>
-<a href="https://www.adobe.com/products/firefly.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly"/></a>
-</p>
-
-Adobe tools: Photoshop · Illustrator · InDesign · After Effects · Premiere Pro · Lightroom · Firefly
-
-🤖 GenAI & Creative AI
-
-<p align="left">
-<a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
-<a href="https://gemini.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
-<a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a>
-<a href="https://www.midjourney.com/" target="_blank"><img src="https://img.shields.io/badge/Midjourney-111111?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney"/></a>
-<a href="https://www.adobe.com/products/firefly.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly"/></a>
-<a href="https://runwayml.com/" target="_blank"><img src="https://img.shields.io/badge/Runway-111111?style=for-the-badge&logoColor=white" alt="Runway"/></a>
-<a href="https://www.leonardo.ai/" target="_blank"><img src="https://img.shields.io/badge/Leonardo%20AI-111111?style=for-the-badge&logoColor=white" alt="Leonardo AI"/></a>
-</p>
-
-Creative AI workflows: Prompt Engineering · Image Generation · Image-to-Image · Concept Development · Style Exploration · Creative Variations · AI-assisted Retouching · Storyboarding
-
-🧊 3D Design & Visualization
-
-<p align="left">
-<a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></a>
-<a href="https://www.maxon.net/en/cinema-4d" target="_blank"><img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logoColor=white" alt="Cinema 4D"/></a>
-<a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank"><img src="https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max"/></a>
-</p>
-
-3D capabilities: Product Visualization · Modeling · Materials · Lighting · Camera Composition · Rendering · Mockups · Creative 3D Scenes
-
-🌐 Web & WordPress
-
-<p align="left">
-<a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
-<a href="https://elementor.com/" target="_blank"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/></a>
-<a href="https://www.wix.com/" target="_blank"><img src="https://img.shields.io/badge/Wix-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" alt="Wix"/></a>
-<a href="https://www.shopify.com/" target="_blank"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-</p>
-
-Web focus: Website UI · Landing Pages · E-commerce UI · WordPress Design · Responsive Layouts · Design-to-Web Collaboration
-
-🧰 Complete Tool Stack
+> **Designing digital experiences, visual identities, AI-powered creatives & 3D visuals that turn ideas into polished experiences.**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender,wordpress,html,css,js,github" alt="Design and development tools"/>
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-7C3AED?style=for-the-badge)
+![Graphic Design](https://img.shields.io/badge/Graphic-Design-EC4899?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-Creative-06B6D4?style=for-the-badge)
+![3D](https://img.shields.io/badge/3D-Visualization-F59E0B?style=for-the-badge)
+
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,blender,figma,wordpress" alt="Creative software toolkit"/>
-</p>
+---
 
-✨ What I Bring to a Project
+# 👋 ABOUT ME
 
-IDEA
-  ↓
-Research & Visual Direction
-  ↓
-Wireframe / Concept
-  ↓
-UI/UX + Visual Design
-  ↓
-AI Exploration & Creative Iteration
-  ↓
-3D / Motion / Supporting Visuals
-  ↓
-Prototype / Production Assets
-  ↓
-Polished Final Experience
+I'm **Mayank Sharma**, a multidisciplinary designer working across:
 
-📌 Design Specializations
+<table>
+<tr>
+<td width="25%" align="center">
 
-🧩 Product
+### 🧩
 
-🎨 Brand & Marketing
+**UI/UX**
 
-🤖 AI & 3D
-
-Web UI
-
-Social Media Creatives
-
-GenAI Visuals
-
-Mobile UI
-
-Campaign Design
-
-AI Concept Art
-
-SaaS Interfaces
-
-Brand Systems
-
-AI Image Editing
-
-E-commerce UI
-
-Ad Creatives
-
-3D Product Visualization
-
-Design Systems
-
-Presentation Design
-
-3D Creative Scenes
-
+Interfaces
+Systems
 Prototypes
 
+</td>
+
+<td width="25%" align="center">
+
+### 🎨
+
+**GRAPHIC**
+
+Branding
+Campaigns
+Visuals
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+
+**GENAI**
+
+AI Visuals
+Ideation
+Creative AI
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧊
+
+**3D**
+
+Visualization
+Rendering
+Scenes
+
+</td>
+</tr>
+</table>
+
+My work combines **strategic thinking + visual craft + emerging technology** to create modern, high-impact digital experiences.
+
+From **product interfaces and design systems** to **brand identities, marketing campaigns, AI-generated visuals, 3D compositions and websites**, I focus on creating work that is:
+
+**Clear · Functional · Scalable · Visually Strong · Purposeful**
+
+---
+
+# ⚡ CORE EXPERTISE
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧩 UI/UX & PRODUCT
+
+**01**
+
+User journeys
+Wireframes
+High-fidelity UI
+Prototypes
+Design Systems
+Responsive Design
+Interaction Design
+UX Audits
+Components
+Visual Hierarchy
+
+</td>
+
+<td width="50%">
+
+## 🎨 BRAND & VISUAL
+
+**02**
+
+Brand Identity
+Typography
+Color Systems
+Layout & Composition
+Campaign Design
+Social Creatives
+Presentations
 Marketing Collateral
+Visual Communication
 
-AI-assisted Workflows
+</td>
+</tr>
 
-🏆 Certifications & Credentials
+<tr>
+<td width="50%">
 
-Adobe Creative Cloud / Adobe Certified Credentials
+## 🤖 GENAI & CREATIVE AI
 
-Add your exact certification names and badge links here (for example: Adobe Certified Professional – Photoshop), so credentials are represented accurately.
+**03**
 
-💼 Portfolio
+Prompt Engineering
+Image Generation
+Image-to-Image
+Concept Development
+Visual Exploration
+Creative Variations
+AI Retouching
+Storyboarding
 
-Add your live portfolio / Behance / Dribbble / LinkedIn / personal website links here.
+</td>
 
-<p align="left">
-<a href="https://www.behance.net/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-<a href="https://dribbble.com/" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<td width="50%">
+
+## 🧊 3D & VISUALIZATION
+
+**04**
+
+3D Modeling
+Product Visualization
+Materials
+Lighting
+Camera Composition
+Rendering
+Mockups
+Creative Environments
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+## 🌐 WEB & DIGITAL EXPERIENCES
+
+**05**
+
+Website UI · Landing Pages · E-commerce Interfaces · Responsive Layouts · WordPress Design · Design-to-Web Collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 WHAT I DO
+
+| ✦  | SERVICE                 | WHAT I CREATE                                              |
+| -- | ----------------------- | ---------------------------------------------------------- |
+| 🧩 | **UI/UX Design**        | User flows · Wireframes · UI · Prototypes · Design Systems |
+| 🎨 | **Brand Design**        | Identity · Typography · Color Systems · Visual Language    |
+| 📣 | **Marketing Design**    | Campaigns · Ads · Social Media · Presentations             |
+| 🤖 | **GenAI Creative**      | AI Ideation · Image Generation · Image Editing · Concepts  |
+| 🧊 | **3D Visualization**    | Product Renders · Modeling · Materials · Lighting · Scenes |
+| 🌐 | **Web Design**          | Websites · Landing Pages · E-commerce · Responsive UI      |
+| 📊 | **Presentation Design** | Corporate Decks · Pitch Decks · Sales Presentations        |
+
+---
+
+# 🎯 DESIGN SPECIALIZATIONS
+
+### 🧩 PRODUCT
+
+`WEB UI` · `MOBILE UI` · `SAAS` · `E-COMMERCE` · `DESIGN SYSTEMS` · `PROTOTYPES`
+
+### 🎨 BRAND & MARKETING
+
+`BRAND IDENTITY` · `BRAND SYSTEMS` · `SOCIAL MEDIA` · `CAMPAIGNS` · `AD CREATIVES` · `MARKETING COLLATERAL`
+
+### 🤖 AI & 3D
+
+`GENAI VISUALS` · `AI CONCEPT ART` · `AI IMAGE EDITING` · `AI WORKFLOWS` · `3D PRODUCT VISUALIZATION` · `3D SCENES`
+
+### 🌐 WEB
+
+`WEBSITE DESIGN` · `LANDING PAGES` · `RESPONSIVE UI` · `WORDPRESS` · `DESIGN-TO-WEB`
+
+---
+
+# 🛠️ PROFESSIONAL TOOLKIT
+
+## 🧩 UI/UX & PRODUCT DESIGN
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,sketch" />
+
 </p>
 
-📬 Let's Create
+### Figma · FigJam · Figma Dev Mode · Sketch
 
-Open to: UI/UX Projects · Brand Design · Creative Campaigns · GenAI Art · 3D Visualization · Web Design · Design Systems · Freelance & Collaboration
+**Core Skills**
 
-<div align="center">
+`WIREFRAMING` `PROTOTYPING` `USER FLOWS` `DESIGN SYSTEMS`
 
-Design with purpose. Create with AI. Build with imagination. ✨
+`AUTO LAYOUT` `COMPONENTS` `RESPONSIVE UI` `UX AUDITS` `INTERACTION DESIGN`
 
-</div>
+---
 
-<!--
-Replace the portfolio/social links above with your personal URLs.
-Update the tool list to match your exact professional software and current certifications.
--->
+## 🎨 ADOBE CREATIVE CLOUD
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
+
+</p>
+
+### Photoshop · Illustrator · InDesign · After Effects · Premiere Pro · Lightroom · Firefly
+
+**Creative Capabilities**
+
+`PHOTO EDITING` · `VECTOR DESIGN` · `LAYOUT DESIGN` · `MOTION GRAPHICS`
+
+`VIDEO EDITING` · `COLOR GRADING` · `AI GENERATION`
+
+---
+
+## 🤖 GENAI & CREATIVE AI
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=openai" />
+
+</p>
+
+### AI TOOLKIT
+
+| AI TOOL           | PRIMARY USE                                        |
+| ----------------- | -------------------------------------------------- |
+| **ChatGPT**       | Creative Direction · Prompt Engineering · Ideation |
+| **Google Gemini** | Research · Ideation · AI Workflows                 |
+| **Claude**        | Concept Development · Creative Thinking            |
+| **Midjourney**    | AI Image Generation · Concept Art                  |
+| **Adobe Firefly** | Generative Design · Image Editing                  |
+| **Runway**        | AI Video · Motion · Creative Experiments           |
+| **Leonardo AI**   | Image Generation · Visual Exploration              |
+
+### ✦ CREATIVE AI WORKFLOW
+
+`PROMPT ENGINEERING`
+
+↓
+
+`IMAGE GENERATION`
+
+↓
+
+`IMAGE-TO-IMAGE`
+
+↓
+
+`CONCEPT DEVELOPMENT`
+
+↓
+
+`STYLE EXPLORATION`
+
+↓
+
+`CREATIVE VARIATIONS`
+
+↓
+
+`AI RETOUCHING`
+
+↓
+
+`STORYBOARDING`
+
+---
+
+# 🧊 3D DESIGN & VISUALIZATION
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=blender" />
+
+</p>
+
+### Blender · Cinema 4D · 3ds Max
+
+**3D CAPABILITIES**
+
+`MODELING` · `MATERIALS` · `LIGHTING` · `CAMERA`
+
+`RENDERING` · `PRODUCT VISUALIZATION` · `MOCKUPS` · `CREATIVE SCENES`
+
+---
+
+# 🌐 WEB & DIGITAL
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=wordpress,html,css" />
+
+</p>
+
+### WordPress · Elementor · Wix · Shopify · HTML5 · CSS3
+
+**WEB FOCUS**
+
+`WEBSITE UI` · `LANDING PAGES` · `E-COMMERCE`
+
+`RESPONSIVE DESIGN` · `WORDPRESS` · `DESIGN-TO-WEB`
+
+---
+
+# 🧰 COMPLETE TOOL ECOSYSTEM
+
+<table>
+<tr>
+<td align="center">
+
+### 🎨 DESIGN
+
+Figma
+FigJam
+Sketch
+Photoshop
+Illustrator
+InDesign
+
+</td>
+
+<td align="center">
+
+### 🎬 MOTION
+
+After Effects
+Premiere Pro
+Lightroom
+Firefly
+
+</td>
+
+<td align="center">
+
+### 🤖 AI
+
+ChatGPT
+Gemini
+Claude
+Midjourney
+Runway
+Leonardo AI
+
+</td>
+
+<td align="center">
+
+### 🧊 3D
+
+Blender
+Cinema 4D
+3ds Max
+
+</td>
+
+<td align="center">
+
+### 🌐 WEB
+
+WordPress
+Elementor
+Wix
+Shopify
+HTML5
+CSS3
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔄 MY DESIGN PROCESS
+
+<table>
+<tr>
+<td align="center"><b>01</b><br>💡<br><b>IDEA</b></td>
+<td>→</td>
+<td align="center"><b>02</b><br>🔎<br><b>RESEARCH</b></td>
+<td>→</td>
+<td align="center"><b>03</b><br>✏️<br><b>CONCEPT</b></td>
+<td>→</td>
+<td align="center"><b>04</b><br>🎨<br><b>DESIGN</b></td>
+</tr>
+
+<tr>
+<td colspan="7" align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center"><b>08</b><br>✨<br><b>POLISH</b></td>
+<td>←</td>
+<td align="center"><b>07</b><br>🚀<br><b>PRODUCTION</b></td>
+<td>←</td>
+<td align="center"><b>06</b><br>🧊<br><b>3D / MOTION</b></td>
+<td>←</td>
+<td align="center"><b>05</b><br>🤖<br><b>AI EXPLORATION</b></td>
+</tr>
+</table>
+
+### 01 — IDEA
+
+Understand the objective, audience, problem, and creative opportunity.
+
+### 02 — RESEARCH & VISUAL DIRECTION
+
+Explore references, trends, competitors, visual language, and creative direction.
+
+### 03 — CONCEPT & WIREFRAME
+
+Translate the idea into structure, user flows, layouts, and initial concepts.
+
+### 04 — UI/UX & VISUAL DESIGN
+
+Build the interface, visual system, typography, hierarchy, components, and brand expression.
+
+### 05 — AI EXPLORATION
+
+Explore concepts, imagery, variations, visual directions, and creative possibilities using GenAI.
+
+### 06 — 3D / MOTION
+
+Add 3D, motion, product visualization, or supporting creative assets where required.
+
+### 07 — PROTOTYPE & PRODUCTION
+
+Develop prototypes, production-ready assets, responsive layouts, and final deliverables.
+
+### 08 — POLISHED EXPERIENCE
+
+Deliver a refined, consistent, purposeful final experience.
+
+---
+
+# ✦ WHAT I BRING TO A PROJECT
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### 🧠
+
+**STRATEGIC THINKING**
+
+</td>
+<td width="80%">
+
+Design decisions connected to the **objective, audience, business requirement, and user needs**.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎨
+
+**VISUAL CRAFT**
+
+</td>
+<td>
+
+Strong attention to **typography, composition, hierarchy, spacing, color, and detail**.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖
+
+**AI-POWERED CREATIVITY**
+
+</td>
+<td>
+
+Rapid visual exploration and concept development using **modern GenAI workflows**.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧩
+
+**MULTIDISCIPLINARY**
+
+</td>
+<td>
+
+Combining **UI/UX + Graphic Design + AI + 3D + Web + Presentation Design**.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🚀
+
+**DESIGN → DELIVERY**
+
+</td>
+<td>
+
+From the **initial idea and wireframe to polished, production-ready assets**.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 CERTIFICATIONS & CREDENTIALS
+
+### Adobe Creative Cloud / Adobe Certified Credentials
+
+> Add verified certification names, certificate numbers, dates, and badge links here.
+
+**Example**
+
+`Adobe Certified Professional — Photoshop`
+
+`Adobe Certified Professional — Illustrator`
+
+---
+
+# 💼 PORTFOLIO
+
+<p align="center">
+
+### ✦ EXPLORE MY WORK
+
+**Behance** · **Dribbble** · **LinkedIn** · **Personal Website**
+
+</p>
+
+> Add verified portfolio links and selected case studies here.
+
+---
+
+# ✦ LET'S CREATE
+
+### Open to:
+
+`UI/UX PROJECTS`
+
+`BRAND DESIGN`
+
+`CREATIVE CAMPAIGNS`
+
+`GEN AI ARTIST`
+
+`3D VISUALIZATION`
+
+`WEB DESIGN`
+
+`DESIGN SYSTEMS`
+
+`FREELANCE`
+
+`COLLABORATION`
+
+---
+
+# ✦ DESIGN WITH PURPOSE.
+
+# ✦ CREATE WITH AI.
+
+# ✦ BUILD WITH IMAGINATION.
+
+### — MAYANK SHARMA
